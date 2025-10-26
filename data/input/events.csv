@@ -1,0 +1,3 @@
+event_id,user_id,session_id,event,ts,product_id,price,qty,device,city,channel
+"evt_1","u_1","s_a","view","2025-01-01 08:00:00","sku_1001",,,"android","shanghai","seo"
+"evt_2","u_1","s_a","purchase","2025-01-01 08:05:00","sku_1001",199,1,"android","shanghai","seo"

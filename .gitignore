@@ -1,4 +1,15 @@
-/homework/.idea/
-/.venv/
-/data-analytics-mini/
-/ENTER/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Data & Figures
+/data/output/
+/data/input/*.parquet
+/data/input/*.feather
+
+# OS
+.DS_Store
+Thumbs.db
