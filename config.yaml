@@ -1,0 +1,10 @@
+paths:
+  input_csv: "data/input/events.csv"
+  output_dir: "data/output"
+  figure_dir: "data/output/figures"
+
+params:
+  timezone: "Asia/Shanghai"
+  funnel_events: ["view", "cart", "purchase", "pay"]
+  qty_upper_limit: 100
+  iqr_k: 1.5
